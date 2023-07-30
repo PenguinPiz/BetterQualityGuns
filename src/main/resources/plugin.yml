@@ -1,0 +1,7 @@
+name: BetterQualityGuns
+version: '${project.version}'
+main: de.penguinpiz.betterqualityguns.BetterQualityGuns
+api-version: '1.20'
+authors:
+  - PenguinPiz
+commands:
